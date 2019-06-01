@@ -4,21 +4,12 @@
 
 ## Демо
 
-http://daimillion.herokuapp.com
+
 
 ## Стек
-* Ruby 5.2.3
+* Ruby 2.5.3
 
 * Rails 4.2.6
-
-* [Rspec-rails](https://github.com/rspec/rspec-rails)
-
-* [FactoryBot](https://github.com/thoughtbot/factory_bot_rails)
-
-* [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-
-* [Capybara](https://github.com/teamcapybara/capybara)
-
 
 ## Установка
 
@@ -45,12 +36,3 @@ bundle exec rails s
 На локальном хосте localhost:3000 будет доступно для использования данное приложение
 
 Для деплоя на хероку, смотрите инструкцию на их сайте.
-
-## Детали
-В игре есть возможность смотреть список своих игр. Есть рейтинг игроков. Также можно загружать свои вопросы.
-
-В приложении присутствуют подробные тесты.
-
-## Автор
-[Denis Gavrilin](https://github.com/swol1)
-
