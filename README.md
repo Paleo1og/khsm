@@ -4,7 +4,7 @@
 
 ## Демо
 
-
+https://mymillion.herokuapp.com/
 
 ## Стек
 * Ruby 2.5.3
