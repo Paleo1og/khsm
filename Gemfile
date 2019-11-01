@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'byebug'
 
-gem 'devise', '~> 4.4.0'
+gem 'devise', '~> 4.7.1'
 gem 'devise-i18n'
 
 gem 'font-awesome-rails'
